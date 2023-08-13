@@ -1,0 +1,10 @@
+C:\Users\Артур\source\repos\words and pictures\words and pictures\bin\Debug\words and pictures.exe.config
+C:\Users\Артур\source\repos\words and pictures\words and pictures\bin\Debug\words and pictures.exe
+C:\Users\Артур\source\repos\words and pictures\words and pictures\bin\Debug\words and pictures.pdb
+C:\Users\Артур\source\repos\words and pictures\words and pictures\obj\Debug\words and pictures.csproj.AssemblyReference.cache
+C:\Users\Артур\source\repos\words and pictures\words and pictures\obj\Debug\words_and_pictures.Form1.resources
+C:\Users\Артур\source\repos\words and pictures\words and pictures\obj\Debug\words_and_pictures.Properties.Resources.resources
+C:\Users\Артур\source\repos\words and pictures\words and pictures\obj\Debug\words and pictures.csproj.GenerateResource.cache
+C:\Users\Артур\source\repos\words and pictures\words and pictures\obj\Debug\words and pictures.csproj.CoreCompileInputs.cache
+C:\Users\Артур\source\repos\words and pictures\words and pictures\obj\Debug\words and pictures.exe
+C:\Users\Артур\source\repos\words and pictures\words and pictures\obj\Debug\words and pictures.pdb
