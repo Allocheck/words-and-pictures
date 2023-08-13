@@ -26,8 +26,11 @@ namespace words_and_pictures
 
         private void InitView()
         {
-            var file = new StreamWriter("./var.txt");
-            var fileNames = Directory.GetFiles("./Files");
+            var path = $"{Environment.GetFolderPath(Environment.SpecialFolder.Desktop)}/WordsPic";
+            if (!Directory.Exists(path))
+                Directory.CreateDirectory(path);
+            var fileNames = Directory.GetFiles(path);
+
             List<string> names = new List<string>();
             for (int i = 0; i<fileNames.Length; i++)
             {
